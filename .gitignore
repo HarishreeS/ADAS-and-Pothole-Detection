@@ -1,3 +1,33 @@
-venv/
+# Python
 __pycache__/
 *.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# YOLO / training outputs
+runs/
+weights/
+wandb/
+
+# Large datasets
+datasets/
+dataset/
+data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
