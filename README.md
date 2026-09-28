@@ -701,7 +701,7 @@ For safety-critical deployment, the system would require extensive validation, s
 
 ## Author
 
-**Harishree S**
+**Harishree S,Chandan S Bhat, K Surya Prakash, Syed Zain**
 
 B.E. Artificial Intelligence & Data Science
 
